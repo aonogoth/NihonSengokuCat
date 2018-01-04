@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './app/views/welcome';
+import NihonSengokuCat from './src';
 
-AppRegistry.registerComponent('NihonSengokuCat', () => App);
+AppRegistry.registerComponent('NihonSengokuCat', () => NihonSengokuCat);
